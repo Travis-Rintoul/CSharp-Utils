@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ihQdlA1WWecwLjoj/wkjQbIyaQxbKkZAYo/dduSE9yoMDUeJj4wYEkdu0S3jGM+bMoNMjtzLR+Q1w5FUR3WSgA==",
+  "success": true,
+  "projectFilePath": "/home/travisr/Projects/TravisUtils/TravisUtils/TravisUtils.csproj",
+  "expectedPackageFiles": [
+    "/home/travisr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

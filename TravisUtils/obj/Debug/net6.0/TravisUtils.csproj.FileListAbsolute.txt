@@ -1,0 +1,12 @@
+/home/travisr/Projects/TravisUtils/TravisUtils/bin/Debug/net6.0/TravisUtils.deps.json
+/home/travisr/Projects/TravisUtils/TravisUtils/bin/Debug/net6.0/TravisUtils.dll
+/home/travisr/Projects/TravisUtils/TravisUtils/bin/Debug/net6.0/ref/TravisUtils.dll
+/home/travisr/Projects/TravisUtils/TravisUtils/bin/Debug/net6.0/TravisUtils.pdb
+/home/travisr/Projects/TravisUtils/TravisUtils/obj/Debug/net6.0/TravisUtils.csproj.AssemblyReference.cache
+/home/travisr/Projects/TravisUtils/TravisUtils/obj/Debug/net6.0/TravisUtils.GeneratedMSBuildEditorConfig.editorconfig
+/home/travisr/Projects/TravisUtils/TravisUtils/obj/Debug/net6.0/TravisUtils.AssemblyInfoInputs.cache
+/home/travisr/Projects/TravisUtils/TravisUtils/obj/Debug/net6.0/TravisUtils.AssemblyInfo.cs
+/home/travisr/Projects/TravisUtils/TravisUtils/obj/Debug/net6.0/TravisUtils.csproj.CoreCompileInputs.cache
+/home/travisr/Projects/TravisUtils/TravisUtils/obj/Debug/net6.0/TravisUtils.dll
+/home/travisr/Projects/TravisUtils/TravisUtils/obj/Debug/net6.0/ref/TravisUtils.dll
+/home/travisr/Projects/TravisUtils/TravisUtils/obj/Debug/net6.0/TravisUtils.pdb
